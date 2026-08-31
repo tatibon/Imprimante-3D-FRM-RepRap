@@ -1,2 +1,2 @@
-# Ecran-LCD
-L'objectif du projet est d'utiliser un écran LCD afin de souhaiter un Joyeux Noël et de bonnes fêtes de fin d'année à la famille.
+# Imprimante 3D reprap
+En tant que passionné de technologie, j'ai toujours été fasciné par les robots humanoïdes. J'ai eu à travailler sur plusieurs projets Arduino, et à un moment, j'ai décidé de concevoir un robot humanoïde. Mais je me suis rendu compte que ce serait extrêmement difficile de le faire sans disposer d'une machine de prototypage : une imprimante 3D FDM. Étant dans l'incapacité d'acheter une imprimante 3D FDM, j'ai décidé d'en fabriquer une.
